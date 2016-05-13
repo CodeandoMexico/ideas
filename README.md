@@ -34,7 +34,7 @@ Una vez que estés listo para agregar, discutir o colaborar con una idea:
 1. Entra a tu cuenta de GitHub o crea una cuenta.
 2. Entra a [http://github.com/CodeandoMexico/ideas](http://github.com/CodeandoMexico/ideas) (estás aquí).
 3. Ve a la sección de [Issues](http://github.com/CodeandoMexico/ideas/issues).
-4. Explora los diferentes Issues que estén [abiertos](https://github.com/CodeandoMexico/codeandomexico.org/issues?q=is%3Aopen).
+4. Explora los diferentes Issues que estén [abiertos](https://github.com/CodeandoMexico/ideas/issues?q=is%3Aopen).
 5. ¿Ves algún tema que te interese? Dale click y entra en la discusión. Recuerda seguir el código de conducta de Codeando México. O bien: ¿Quieres proponer un nueva idea? [Crea un nuevo Issue](https://github.com/CodeandoMexico/ideas/issues/new). Asegúrate de agregarle la etiqueta adecuada.
 
 ### Etiquetas válidas
